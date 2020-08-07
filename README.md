@@ -4,7 +4,7 @@
 > `hif2gene` is the primary code repository for reproducing analyses in Diao, Chui, and Wang et al. 2020: "Dense, high-resolution mapping of cells and tissues from pathology images for the interpretable prediction of molecular phenotypes in cancer"
 
 ## Installation
-- Clone this repo to your local machine using https://github.com/jamesdiao/hif2gene.git
+- Clone this repo to your local machine using https://github.com/Path-AI/hif2gene.git
 
 ## Contents
 1. `/scripts` contains all Python and R code used to produce content in `/figures` from `/data`
