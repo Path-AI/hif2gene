@@ -1,0 +1,9 @@
+label,Leukocyte Infiltration,IgG Expression,TGF-Beta Expression,Wound Healing Signature
+2. Area of Necrotic Tissue,0.06046,0.177984,0.078754,0.343466
+4. Density of Fibroblasts in Tumor Versus Stromal Tissue,0.192105,0.141671,0.308471,0.187951
+7. Density of Macrophages in Tumor Tissue,0.396622,0.44365,0.074362,0.168153
+9. Density of Plasma Cells in Tumor Tissue,0.462194,0.582436,0.045458,0.223107
+10. Density of Lymphocytes in Tumor Tissue,0.484838,0.435184,0.056493,0.118183
+12. Density of Fibroblasts in Stromal Versus Epithelial Tissue,0.193993,0.165968,0.247511,0.285676
+14. Density of Fibroblasts in Tumor Tissue,0.090019,0.138368,0.275856,0.125362
+16. Count of Plasma Cells in Tumor Versus Epithelial Tissue,0.102584,0.174096,0.08561,0.350467
