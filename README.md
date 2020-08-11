@@ -50,6 +50,8 @@
 
 While computational methods have made substantial progress in improving the accuracy and throughput of pathology workflows for diagnosis, prognosis, and the prediction of genomic features, a lack of interpretability remains a significant barrier to clinical integration. In this study, we present a novel approach for prediction of clinically-relevant molecular phenotypes from histopathology whole-slide images (WSIs) using human-interpretable image features (HIFs). Our method leverages >1.6 million annotations from board-certified pathologists across >5,700 WSIs to train deep learning models for high-resolution tissue classification and cell detection across entire WSIs in five cancer types. Combining cell- and tissue-type models enables computation of 607 HIFs that comprehensively capture specific and biologically-relevant characteristics of multiple tumors. We demonstrate that these correlate with well-known markers of the tumor microenvironment (TME) and can predict diverse molecular signatures, including immune checkpoint protein expression and homologous recombination deficiency (HRD). Our HIF-based approach therefore provides a novel, quantitative, and interpretable window into the composition and spatial architecture of the TME.
 
+## License
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
