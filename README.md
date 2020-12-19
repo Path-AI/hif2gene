@@ -5,11 +5,13 @@
 
 ## Installation
 - Clone this repo to your local machine using https://github.com/Path-AI/hif2gene.git
+- Estimated install time: <1 minute
+- Estimated run time: varies between scripts (<1 minute to ~1 hour)
 
 ## Contents
 1. `/scripts` contains all Python and R code used to produce content in `/figures` from `/data`
 2. `/data` contains all raw and cached data objects needed to reproduce the analysis from scratch
-3. `/figures` contains all primary figures as individual vectorized `.pdf` 
+3. `/figures` contains all primary figures as individual vectorized `.pdf`
 
 ## Version and package requirements 
 - R version: 3.6.2
