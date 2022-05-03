@@ -3,6 +3,8 @@
 ## Overview
 > `hif2gene` is the primary code repository for reproducing analyses in Diao, Chui, and Wang et al. 2020: "Dense, high-resolution mapping of cells and tissues from pathology images for the interpretable prediction of molecular phenotypes in cancer"
 
+You can read the full publication in Nature: [Human-interpretable image features derived from densely mapped cancer pathology slides predict diverse molecular phenotypes](https://www.nature.com/articles/s41467-021-21896-9)
+
 ## Installation
 - Clone this repo to your local machine using https://github.com/Path-AI/hif2gene.git
 - Estimated install time: <1 minute
